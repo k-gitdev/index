@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Arduino UNO",
+      "image": "https://content.arduino.cc/assets/A000066_00front_unboxed.jpg",
+      "price": 180,
+      "description": "Brand new and high quality microcontroller.",
+      "sellerId": 1
+    },
+    {
+      "id": 2,
+      "title": "LED Display",
+      "image": "https://content.arduino.cc/assets/A000096_00.jpg",
+      "price": 92,
+      "description": "Can display 2-lines X 16-characters. 5V DC.",
+      "sellerId": 2
+    },
+    {
+      "id": 3,
+      "title": "ESP8266 5V",
+      "image": "https://i.ebayimg.com/images/g/J~gAAOSw~jpb2~tV/s-l1200.jpg",
+      "price": 300,
+      "description": "Wireless relay based on ESP-01S WIFI module.",
+      "sellerId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "RoboShop",
+      "email": "robo@shop.com"
+    },
+    {
+      "id": 2,
+      "name": "ElectroMaster",
+      "email": "master@electro.com"
+    }
+  ]
+}
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Arduino UNO",
+      "image": "https://content.arduino.cc/assets/A000066_00front_unboxed.jpg",
+      "price": 180,
+      "description": "Brand new and high quality microcontroller.",
+      "sellerId": 1
+    },
+    {
+      "id": 2,
+      "title": "LED Display",
+      "image": "https://content.arduino.cc/assets/A000096_00.jpg",
+      "price": 92,
+      "description": "Can display 2-lines X 16-characters. 5V DC.",
+      "sellerId": 2
+    },
+    {
+      "id": 3,
+      "title": "ESP8266 5V",
+      "image": "https://i.ebayimg.com/images/g/J~gAAOSw~jpb2~tV/s-l1200.jpg",
+      "price": 300,
+      "description": "Wireless relay based on ESP-01S WIFI module.",
+      "sellerId": 1
+    },
+    {
+      "id": 4,
+      "title": "RGB Module",
+      "image": "https://m.media-amazon.com/images/I/51f9S2eX+IL.jpg",
+      "price": 92,
+      "description": "Can make color party.",
+      "sellerId": 2
+    },
+    {
+      "id": 5,
+      "title": "Resistor 10k Ohm",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Resistor_10k_Ohm.jpg",
+      "price": 180,
+      "description": "Can resist the voltage. Super cool.",
+      "sellerId": 1
+    },
+    {
+      "id": 6,
+      "title": "7-Segment Display",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/7-segment_display-1.png/640px-7-segment_display-1.png",
+      "price": 300,
+      "description": "Epic display.",
+      "sellerId": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "RoboShop",
+      "email": "robo@shop.com"
+    },
+    {
+      "id": 2,
+      "name": "ElectroMaster",
+      "email": "master@electro.com"
+    }
+  ]
+}
