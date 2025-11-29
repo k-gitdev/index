@@ -1,5 +1,4 @@
 
-{
   "products": [
     {
       "id": 1,
@@ -61,5 +60,4 @@
       "name": "ElectroMaster",
       "email": "master@electro.com"
     }
-  ]
-}
+  ];
